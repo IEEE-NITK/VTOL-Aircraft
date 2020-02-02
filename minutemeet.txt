@@ -1,9 +1,9 @@
 1.Testing of sensors with arduino 
 gyroscope,accelerometer,magnetic field,temperature integrated sensor(MPU9250)
-altitude,pressure inyegrated sensor(GY-63 M9250)
+altitude,pressure and temperature integrated sensor(GY-63 M9250)
 
-2.Created repository in Github and added all members
+2.Created repository in Github and added all members.
 
-3.Discussed basic commands in github
+3.Discussed basic commands in github.
 
-4.Planned caliberation of servo motor that is going to be used for flaps
+4.Planned caliberation of servo motor that is going to be used for flaps.
