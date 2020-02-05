@@ -23,7 +23,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 MPU9250 IMU(Wire,0x68);
 int status;
 
-void setup() {
+void setup(){
   // serial to display data
   Serial.begin(115200);
   while(!Serial) {}
@@ -39,8 +39,8 @@ void setup() {
   }
 }
 
-void loop() {
-  // read the sensor
+void loop(){
+  // read the sensor 
   IMU.readSensor();
   // display the data
   Serial.print(IMU.getAccelX_mss(),6);
