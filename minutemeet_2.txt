@@ -1,0 +1,4 @@
+18-02-2020
+We had another meet on 18th Feb, which was basically an electronics meet.
+We had discussed about PID Controlling, ESC, we controlled and predicted the angle of servos using our code.
+Soldering in breadboard of arduino is done. Quadopter code explained!!

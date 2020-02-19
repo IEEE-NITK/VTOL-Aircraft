@@ -62,5 +62,5 @@ void loop(){
   Serial.print(IMU.getMagZ_uT(),6);
   Serial.print("\t");
   Serial.println(IMU.getTemperature_C(),6);
-  delay(100);
+i,      delay(100);
 }
