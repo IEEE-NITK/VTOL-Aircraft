@@ -1,0 +1,19 @@
+WORK TILL NOW
+1.Basic listing of electronics part;
+2.Testing of sensors ;
+3.Caliberation of servo;
+
+WORK IN PROGRESS
+1.Circuit designing;
+2.Soldering basic board using perforated ones;
+3.Basic drone code analysis and structuring our own ones;
+
+WORK IN FUTURE
+1.Caliberation pf ESC;
+2.Integration of sensors ;
+3.Fitting electronic components in chassis;
+4.Basic PID tuning;
+5.Flight controll analysis based on chassis errrors and further improvements in design;
+
+
+
