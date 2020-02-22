@@ -1,0 +1,3 @@
+22-02-2020
+In this meet, we discussed and decided the tracks for soldering in the breadboard. Soldered some of the tracks, and remaining will be done by us at our rooms.
+And, for next meet we will understand quadcopter and other codes and their workings.
