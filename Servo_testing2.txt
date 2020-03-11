@@ -1,0 +1,21 @@
+#define servoPin 7
+int onTime = 500;
+void setup() {
+  pinMode(servoPin,OUTPUT);
+  Serial.begin(9600);
+
+}
+
+void loop() {
+digitalWrite(servoPin,HIGH);
+delayMicroseconds(onTime);
+digitalWrite(servoPin,LOW);
+delayMicroseconds(20000-onTime);
+Serial.println(onTime);
+if(onTime> 2349)
+ onTime = 500;
+ else 
+ onTime++;
+
+// 0 deg 500us   90 deg 924.5us  180 deg 2349us
+}
